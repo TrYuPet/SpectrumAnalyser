@@ -1,0 +1,14 @@
+﻿@model SpectrumAnalyser.Models.DataModel.PainterModel
+<link rel="stylesheet" type="text/css" href="~/Content/style/colour.css" />
+@{
+    ViewBag.Title = "Side menu";
+}
+    @foreach (var item in Model.HistoryPeriod)
+    {
+        <div class="side_menu_item">
+        <a href="@Url.Action("Details", "SideMenu", new { id = item.HistoryPeriodId })"><img src="~/Content/style/series_one.jpg" alt="Series_One" width="142" height="50" /></a><br>
+        <span class="info">@Html.DisplayFor(modelItem => item.HistoryPeriodName)</span>
+        </div>
+    }
+
+

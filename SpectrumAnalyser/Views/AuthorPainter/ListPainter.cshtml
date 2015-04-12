@@ -1,0 +1,56 @@
+﻿@model IEnumerable<SpectrumAnalyser.Models.BD.tbl_11_AuthorPictures>
+<link rel="stylesheet" type="text/css" href="~/Content/style/colour.css" />
+@{
+    ViewBag.Title = "Художники";
+}
+<div id="side_menu">
+
+</div>
+
+<div id="content">
+    <table>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AuthorFirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AuthorLastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AuthorMiddleName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AuthorDate_of_birth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tbl_13_HistoryPeriod.HistoryPeriodName)
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AuthorFirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AuthorLastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AuthorMiddleName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AuthorDate_of_birth)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.tbl_13_HistoryPeriod.HistoryPeriodName)
+                </td>
+
+                <td>
+                    @Html.ActionLink("Просмотреть", "ListWorkOfArt", new { id = item.AuthorPicturesId }) |
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

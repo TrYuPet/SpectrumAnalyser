@@ -1,0 +1,521 @@
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\SpectrumAnalyser.dll.config
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\SpectrumAnalyser.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\SpectrumAnalyser.pdb
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.AspNet.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.Core.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.Infrastructure.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.WebPages.OAuth.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\Newtonsoft.Json.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Helpers.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Razor.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Deployment.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Razor.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.Data.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.WebData.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.SqlServer.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Helpers.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Mvc.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Razor.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Deployment.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Razor.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.Data.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.WebPages.OAuth.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.WebData.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.AspNet.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.Core.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.OData.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.Edm.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.OData.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Spatial.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\EntityFramework.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\EntityFramework.SqlServer.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Helpers.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Mvc.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Optimization.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Razor.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.WebPages.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.WebPages.Deployment.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.WebPages.Razor.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\WebMatrix.Data.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\WebMatrix.WebData.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Http.OData.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\de\Microsoft.Data.Edm.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\es\Microsoft.Data.Edm.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\fr\Microsoft.Data.Edm.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\it\Microsoft.Data.Edm.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ja\Microsoft.Data.Edm.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ko\Microsoft.Data.Edm.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\Microsoft.Data.Edm.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\de\Microsoft.Data.OData.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\es\Microsoft.Data.OData.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\fr\Microsoft.Data.OData.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\it\Microsoft.Data.OData.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ja\Microsoft.Data.OData.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ko\Microsoft.Data.OData.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\Microsoft.Data.OData.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\de\System.Spatial.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\es\System.Spatial.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\fr\System.Spatial.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\it\System.Spatial.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ja\System.Spatial.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ko\System.Spatial.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Spatial.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hans\System.Spatial.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hant\System.Spatial.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\obj\Debug\SpectrumAnalyser.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\obj\Debug\SpectrumAnalyser.pdb
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Providers.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\Antlr3.Runtime.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.SqlServer.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.Edm.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.OData.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Spatial.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.OData.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Mvc.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Optimization.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Providers.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\WebGrease.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\Org.Mentalis.Security.Cryptography.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\Mono.Math.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\Newtonsoft.Json.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\Org.Mentalis.Security.Cryptography.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\Mono.Math.xml
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+G:\Developer\Сourse work\CW_Spectrum_Analyser\SpectrumAnalyser\SpectrumAnalyser\obj\Debug\SpectrumAnalyser.csprojResolveAssemblyReference.cache
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\SpectrumAnalyser.dll.config
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\SpectrumAnalyser.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\SpectrumAnalyser.pdb
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\Antlr3.Runtime.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.AspNet.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.Core.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.Consumer.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.SqlServer.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.Edm.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.OData.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.Infrastructure.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.WebPages.OAuth.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\Newtonsoft.Json.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Net.Http.Formatting.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Spatial.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Helpers.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.OData.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.WebHost.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Mvc.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Optimization.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Providers.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Razor.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Deployment.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Razor.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\WebGrease.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.Data.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.WebData.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\Org.Mentalis.Security.Cryptography.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\Mono.Math.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.SqlServer.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Providers.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\Newtonsoft.Json.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Net.Http.Formatting.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Helpers.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.WebHost.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Mvc.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Razor.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Deployment.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Razor.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.Data.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.WebPages.OAuth.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.WebData.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.AspNet.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.Core.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.Consumer.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.OData.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.Edm.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.OData.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\System.Spatial.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\Org.Mentalis.Security.Cryptography.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\Mono.Math.xml
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\EntityFramework.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\EntityFramework.SqlServer.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Net.Http.Formatting.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Helpers.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Http.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Http.WebHost.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Mvc.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Optimization.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Razor.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.WebPages.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.WebPages.Deployment.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.WebPages.Razor.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\WebMatrix.Data.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\WebMatrix.WebData.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Http.OData.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\de\Microsoft.Data.Edm.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\es\Microsoft.Data.Edm.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\fr\Microsoft.Data.Edm.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\it\Microsoft.Data.Edm.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ja\Microsoft.Data.Edm.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ko\Microsoft.Data.Edm.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\Microsoft.Data.Edm.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\de\Microsoft.Data.OData.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\es\Microsoft.Data.OData.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\fr\Microsoft.Data.OData.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\it\Microsoft.Data.OData.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ja\Microsoft.Data.OData.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ko\Microsoft.Data.OData.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\Microsoft.Data.OData.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\de\System.Spatial.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\es\System.Spatial.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\fr\System.Spatial.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\it\System.Spatial.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ja\System.Spatial.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ko\System.Spatial.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Spatial.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hans\System.Spatial.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hant\System.Spatial.resources.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\obj\Debug\SpectrumAnalyser.csprojResolveAssemblyReference.cache
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\obj\Debug\SpectrumAnalyser.dll
+e:\Ucheba\Проект\save_08.12.14\SpectrumAnalyser\SpectrumAnalyser\obj\Debug\SpectrumAnalyser.pdb
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\obj\Debug\SpectrumAnalyser.csprojResolveAssemblyReference.cache
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\obj\Debug\SpectrumAnalyser.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\obj\Debug\SpectrumAnalyser.pdb
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\SpectrumAnalyser.dll.config
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\SpectrumAnalyser.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\SpectrumAnalyser.pdb
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Antlr3.Runtime.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.AspNet.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.Core.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.Consumer.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.SqlServer.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.Edm.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.OData.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.Infrastructure.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.WebPages.OAuth.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Newtonsoft.Json.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Spatial.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Helpers.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.OData.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Mvc.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Optimization.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Providers.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Razor.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Deployment.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Razor.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\WebGrease.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.Data.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.WebData.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Org.Mentalis.Security.Cryptography.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Mono.Math.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.SqlServer.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Providers.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Newtonsoft.Json.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Helpers.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Mvc.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Razor.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Deployment.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Razor.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.Data.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.WebPages.OAuth.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.WebData.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.AspNet.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.Core.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.Consumer.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.OData.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.Edm.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.OData.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Spatial.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Org.Mentalis.Security.Cryptography.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Mono.Math.xml
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\EntityFramework.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Helpers.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Mvc.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Optimization.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Razor.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.WebPages.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.WebPages.Deployment.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.WebPages.Razor.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\WebMatrix.Data.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\WebMatrix.WebData.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Http.OData.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\de\Microsoft.Data.Edm.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\es\Microsoft.Data.Edm.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\fr\Microsoft.Data.Edm.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\it\Microsoft.Data.Edm.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ja\Microsoft.Data.Edm.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ko\Microsoft.Data.Edm.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\Microsoft.Data.Edm.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\de\Microsoft.Data.OData.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\es\Microsoft.Data.OData.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\fr\Microsoft.Data.OData.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\it\Microsoft.Data.OData.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ja\Microsoft.Data.OData.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ko\Microsoft.Data.OData.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\Microsoft.Data.OData.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\de\System.Spatial.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\es\System.Spatial.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\fr\System.Spatial.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\it\System.Spatial.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ja\System.Spatial.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ko\System.Spatial.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Spatial.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hans\System.Spatial.resources.dll
+g:\Developer\Сourse work\Analyser\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hant\System.Spatial.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\SpectrumAnalyser.dll.config
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\SpectrumAnalyser.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\SpectrumAnalyser.pdb
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Antlr3.Runtime.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.AspNet.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.Core.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.SqlServer.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.Edm.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.OData.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.Infrastructure.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Newtonsoft.Json.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Net.Http.Formatting.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Spatial.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Helpers.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.OData.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.WebHost.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Mvc.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Optimization.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Providers.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Razor.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Deployment.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Razor.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\WebGrease.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.Data.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.WebData.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Org.Mentalis.Security.Cryptography.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Mono.Math.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.SqlServer.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Providers.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Newtonsoft.Json.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Net.Http.Formatting.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Helpers.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.WebHost.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Mvc.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Razor.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Deployment.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Razor.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.Data.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.WebData.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.AspNet.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.Core.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.OData.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.Edm.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.OData.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\System.Spatial.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Org.Mentalis.Security.Cryptography.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\Mono.Math.xml
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\EntityFramework.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Net.Http.Formatting.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Helpers.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Http.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Http.WebHost.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Mvc.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Optimization.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Razor.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.WebPages.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\WebMatrix.Data.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\WebMatrix.WebData.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Http.OData.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\de\Microsoft.Data.OData.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\es\Microsoft.Data.OData.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\it\Microsoft.Data.OData.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\de\System.Spatial.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\es\System.Spatial.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\fr\System.Spatial.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\it\System.Spatial.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ja\System.Spatial.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ko\System.Spatial.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Spatial.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hans\System.Spatial.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hant\System.Spatial.resources.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\obj\Debug\SpectrumAnalyser.csprojResolveAssemblyReference.cache
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\obj\Debug\SpectrumAnalyser.dll
+E:\Ucheba\Проект\ProjectSA\spectrumanalyser\SpectrumAnalyser\SpectrumAnalyser\obj\Debug\SpectrumAnalyser.pdb
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\SpectrumAnalyser.dll.config
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\SpectrumAnalyser.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\SpectrumAnalyser.pdb
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\Antlr3.Runtime.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.AspNet.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.Core.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.Consumer.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.SqlServer.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.Edm.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.OData.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.Infrastructure.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.WebPages.OAuth.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\Newtonsoft.Json.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Spatial.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Helpers.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.OData.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Mvc.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Optimization.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Providers.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Razor.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Deployment.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Razor.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\WebGrease.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.Data.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.WebData.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\Org.Mentalis.Security.Cryptography.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\Mono.Math.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\EntityFramework.SqlServer.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Providers.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\Newtonsoft.Json.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Helpers.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Mvc.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Razor.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Deployment.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.WebPages.Razor.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.Data.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Web.WebPages.OAuth.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\WebMatrix.WebData.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.AspNet.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.Core.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.Consumer.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OAuth.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Web.Http.OData.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.Edm.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\Microsoft.Data.OData.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\System.Spatial.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\Org.Mentalis.Security.Cryptography.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\Mono.Math.xml
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ru\EntityFramework.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ru\EntityFramework.SqlServer.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Helpers.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Mvc.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Optimization.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Razor.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.WebPages.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.WebPages.Deployment.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.WebPages.Razor.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ru\WebMatrix.WebData.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Web.Http.OData.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\de\Microsoft.Data.Edm.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\es\Microsoft.Data.Edm.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\fr\Microsoft.Data.Edm.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\it\Microsoft.Data.Edm.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ja\Microsoft.Data.Edm.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ko\Microsoft.Data.Edm.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ru\Microsoft.Data.Edm.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\de\Microsoft.Data.OData.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\es\Microsoft.Data.OData.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\fr\Microsoft.Data.OData.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\it\Microsoft.Data.OData.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ja\Microsoft.Data.OData.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ko\Microsoft.Data.OData.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ru\Microsoft.Data.OData.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\de\System.Spatial.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\es\System.Spatial.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\fr\System.Spatial.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\it\System.Spatial.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ja\System.Spatial.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ko\System.Spatial.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\ru\System.Spatial.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hans\System.Spatial.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\bin\zh-Hant\System.Spatial.resources.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\obj\Debug\SpectrumAnalyser.csprojResolveAssemblyReference.cache
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\obj\Debug\SpectrumAnalyser.dll
+f:\Developer\Spectrum\SpectrumAnalyser\SpectrumAnalyser\obj\Debug\SpectrumAnalyser.pdb

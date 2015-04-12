@@ -1,0 +1,17 @@
+﻿@model SpectrumAnalyser.Models.LocalPasswordModel
+<link rel="stylesheet" type="text/css" href="~/Content/style/colour.css" />
+@*<hgroup class="title">
+    <h2>@ViewBag.Title</h2>
+</hgroup>*@
+<div id="side_menu">
+    @Html.Partial("_UserMenu")
+</div>
+<div id="content">
+    <p class="message-success">@ViewBag.StatusMessage</p>
+
+    @Html.Partial("_ChangePasswordPartial")
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+</div>

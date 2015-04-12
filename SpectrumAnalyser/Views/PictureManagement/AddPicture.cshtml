@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "AddPicture";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" type="text/css" href="~/Content/style/colour.css" />
+@model SpectrumAnalyser.Models.BD.tbl_14_WorksOfArt
+<div id="side_menu">
+</div>
+<div id="content">
+    @using (Html.BeginForm("AddPicture", "PictureManagement", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.ValidationSummary(true)
+        <fieldset>
+            <legend>Добавить изображение</legend>
+
+            <div class="editor-label">Название</div>
+            <div class="editor-field">
+                @*@Html. ("", model => model.AuthorPicturesId)*@
+                @Html.EditorFor(model => model.PictureName)
+                @Html.ValidationMessageFor(model => model.PictureName)
+            </div>
+
+            <div class="editor-label">Файл изображения</div>
+            <div class="editor-field">
+                <input type="file" name="uploadImage" />
+            </div>
+
+            <p>
+                <input type="submit" value="Добавить" />
+            </p>
+        </fieldset>
+    }
+    @Html.ActionLink("Вернуться к списку", "Index")
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+</div>

@@ -1,0 +1,145 @@
+﻿@using SpectrumAnalyser.Helpers
+@{
+    ViewBag.Title = "Домашняя страница";
+}
+@section featured {
+    <link rel="stylesheet" type="text/css" href="~/Content/style/colour.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/style/image_viewer.css" />
+    <section class="featured">
+        <div id="site_content">
+            @*<div class="content-wrapper">*@
+            <hgroup class="title">
+                @*<h1>@ViewBag.Title</h1>*@
+                @*<h2>@ViewBag.Message</h2>*@
+            </hgroup>
+
+            <div id="side_menu">
+                @*<h1>Периоды</h1>*@
+                @Html.Partial("~/Views/SideMenu/Items.cshtml", SideMenuHelper.GetItemList())
+                @*<div class="side_menu_item">
+                    <a class="selected" href="index.html"><img src="~/Content/style/series_one.jpg" alt="Series_One" width= "142" height="50" /></a>
+                    <span class="info">Series_One</span>
+                </div>
+                <div class="side_menu_item">
+                    <a href="#"><img src="~/Content/style/series_two.jpg" alt="Series_Two" width="142" height="50" /></a>
+                    <span class="info">Series_Two</span>
+                </div>
+                <div class="side_menu_item">
+                    <a href="#"><img src="~/Content/style/series_three.jpg" alt="Series_Three" width="142" height="50" /></a>
+                    <span class="info">Series_Three</span>
+                </div>
+                <div class="side_menu_item">
+                    <a href="#"><img src="~/Content/style/series_four.jpg" alt="Series_Four" width="142" height="50" /></a>
+                    <span class="info">Series_Four</span>
+                </div>
+                <div class="side_menu_item">
+                    <a href="#"><img src="~/Content/style/series_five.jpg" alt="Series_Five" width="142" height="50" /></a>
+                    <span class="info">Series_Five</span>
+                </div>*@
+            </div>
+            <div id="content">
+                @*@Html.Partial("~/Views/SideMenu/Details.cshtml")*@
+                <h1>Фото</h1>
+                <div id="gallery">
+                    <em id="thumbs">
+                        <a href="#nogo"><img src="images/series_one/sea_1.jpg" title="Sun Reflections [Tighnabruaich, Scotland]" alt="Sun Reflections [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_2.jpg" title="Sunset Edge [Tighnabruaich, Scotland]" alt="Sunset Edge [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_1.jpg" title="Sun Reflections [Tighnabruaich, Scotland]" alt="Sun Reflections [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_2.jpg" title="Sunset Edge [Tighnabruaich, Scotland]" alt="Sunset Edge [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_1.jpg" title="Sun Reflections [Tighnabruaich, Scotland]" alt="Sun Reflections [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_2.jpg" title="Sunset Edge [Tighnabruaich, Scotland]" alt="Sunset Edge [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_1.jpg" title="Sun Reflections [Tighnabruaich, Scotland]" alt="Sun Reflections [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_2.jpg" title="Sunset Edge [Tighnabruaich, Scotland]" alt="Sunset Edge [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_1.jpg" title="Sun Reflections [Tighnabruaich, Scotland]" alt="Sun Reflections [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_2.jpg" title="Sunset Edge [Tighnabruaich, Scotland]" alt="Sunset Edge [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_1.jpg" title="Sun Reflections [Tighnabruaich, Scotland]" alt="Sun Reflections [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_2.jpg" title="Sunset Edge [Tighnabruaich, Scotland]" alt="Sunset Edge [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_1.jpg" title="Sun Reflections [Tighnabruaich, Scotland]" alt="Sun Reflections [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_2.jpg" title="Sunset Edge [Tighnabruaich, Scotland]" alt="Sunset Edge [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_1.jpg" title="Sun Reflections [Tighnabruaich, Scotland]" alt="Sun Reflections [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_2.jpg" title="Sunset Edge [Tighnabruaich, Scotland]" alt="Sunset Edge [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_1.jpg" title="Sun Reflections [Tighnabruaich, Scotland]" alt="Sun Reflections [Tighnabruaich, Scotland]" /></a>
+                        <a href="#nogo"><img src="images/series_one/sea_2.jpg" title="Sunset Edge [Tighnabruaich, Scotland]" alt="Sunset Edge [Tighnabruaich, Scotland]" /></a>
+                    </em>
+                </div>
+            </div>
+        </div>
+    </section>
+}
+
+
+
+
+@*@model IEnumerable<SpectrumAnalyser.Models.BD.tbl_1_User>
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>Спектральный анализ</h1>
+            </hgroup>
+            <p>
+
+            </p>
+        </div>
+    </section>
+}
+<h2>Список юзеров</h2>
+<p>
+    @Html.ActionLink("Добавить пользователя", "Create")
+</p>
+<table>
+    <tr>
+        <th>фамилия</th>
+         <th>логин</th>
+        <th>пароль</th>
+        <th>email</th>
+        <th>статус</th>
+        <th>должность</th>
+        <th>тип организации</th>
+        <th>город</th>
+        <th>страна</th>
+        <th>привилегии</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName_user)
+            </td>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.Login)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tbl_2_Roles.RoleName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tbl_5_Organization.Status_organization)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tbl_5_Organization.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tbl_6_City.City_user)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tbl_6_City.Country)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tbl_3_Privileges.Privileges)
+            </td>
+            <td>
+                @Html.ActionLink("Редактировать", "Edit", new { id = item.Id_user }) |
+                @Html.ActionLink("Удалить", "Delete", new { id = item.Id_user })
+            </td>
+        </tr>
+    }
+</table>*@

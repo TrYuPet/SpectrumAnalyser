@@ -1,0 +1,44 @@
+﻿@model IEnumerable<SpectrumAnalyser.Models.BD.tbl_14_WorksOfArt>
+<link rel="stylesheet" type="text/css" href="~/Content/style/colour.css" />
+<div id="side_menu">
+
+</div>
+
+<div id="content">
+    <table>
+
+
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PictureName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PicturePhoto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Size)
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.PictureName)
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PicturePhoto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Size)
+                </td>
+               
+
+                <td>
+                    @Html.ActionLink("Просмотреть", "ListWorkOfArt", new { id = item.PictureId }) |
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

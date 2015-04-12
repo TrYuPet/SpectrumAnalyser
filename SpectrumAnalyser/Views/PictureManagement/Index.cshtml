@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" type="text/css" href="~/Content/style/colour.css" />
+@model IEnumerable<SpectrumAnalyser.Models.BD.tbl_14_WorksOfArt>
+
+<div id="side_menu">
+</div>
+<div id="content">
+    <h2>Мои изображения</h2>
+    <p>
+        @Html.ActionLink("Добавить изображение", "AddPicture")
+    </p>
+    <table>
+        <tr>
+            <th>Название</th>
+            <th>Картинка</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PictureName)
+                </td>
+                <td>
+                    @Html.Raw("<img style='width:80px; height:60px;' src=\"data:image/jpeg;base64,"
+                                + Convert.ToBase64String(item.PicturePhoto) + "\" />")
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

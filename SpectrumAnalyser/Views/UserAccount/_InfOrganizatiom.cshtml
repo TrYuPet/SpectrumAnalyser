@@ -1,0 +1,77 @@
+﻿@model SpectrumAnalyser.Models.BD.tbl_5_Organization
+<link rel="stylesheet" type="text/css" href="~/Content/style/colour.css" />
+
+<h2>InfOrganizatiom</h2>
+<div id="content">
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+
+        <fieldset>
+            <legend>tbl_5_Organization</legend>
+
+            @Html.HiddenFor(model => model.OrganizationId)
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.OrganizationStatus)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.OrganizationStatus)
+                @Html.ValidationMessageFor(model => model.OrganizationStatus)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.OrganizationType)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.OrganizationType)
+                @Html.ValidationMessageFor(model => model.OrganizationType)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.OrganizationDescription)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.OrganizationDescription)
+                @Html.ValidationMessageFor(model => model.OrganizationDescription)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.OrganizationAdress)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.OrganizationAdress)
+                @Html.ValidationMessageFor(model => model.OrganizationAdress)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.OrganizationEmail)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.OrganizationEmail)
+                @Html.ValidationMessageFor(model => model.OrganizationEmail)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.OrganizationPhoneNumbe)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.OrganizationPhoneNumbe)
+                @Html.ValidationMessageFor(model => model.OrganizationPhoneNumbe)
+            </div>
+
+            <p>
+                <input type="submit" value="Save" />
+            </p>
+        </fieldset>
+    }
+
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+</div>

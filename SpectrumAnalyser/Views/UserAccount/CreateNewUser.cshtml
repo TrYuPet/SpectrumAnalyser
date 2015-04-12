@@ -1,0 +1,90 @@
+﻿@model SpectrumAnalyser.Models.BD.tbl_1_User
+<link rel="stylesheet" type="text/css" href="~/Content/style/colour.css" />
+<div id="side_menu">
+    @Html.Partial("_UserMenu")
+</div>
+<div id="content">
+
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+
+        <fieldset>
+            <legend>Новый пользователь</legend>
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.Login)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Login)
+                @Html.ValidationMessageFor(model => model.Login)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.Password)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Password)
+                @Html.ValidationMessageFor(model => model.Password)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(model => model.UserFirstName)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.UserFirstName)
+                @Html.ValidationMessageFor(model => model.UserFirstName)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(model => model.UserLastName)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.UserLastName)
+                @Html.ValidationMessageFor(model => model.UserLastName)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(model => model.UserMiddleName)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.UserMiddleName)
+                @Html.ValidationMessageFor(model => model.UserMiddleName)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(model => model.UserEmail)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.UserEmail)
+                @Html.ValidationMessageFor(model => model.UserEmail)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(model => model.UserPhoneNumber)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.UserPhoneNumber)
+                @Html.ValidationMessageFor(model => model.UserPhoneNumber)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(model => model.UserMobilePhoneNumber)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.UserMobilePhoneNumber)
+                @Html.ValidationMessageFor(model => model.UserMobilePhoneNumber)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.RoleId)
+            </div>
+            <div class="editor-field">
+                @Html.DropDownListFor(model => model.RoleId, ViewBag.tbl_2_Roles as SelectList)
+                @Html.ValidationMessageFor(model => model.RoleId)
+            </div>
+
+            <p>
+                <input type="submit" value="Добавить" />
+            </p>
+        </fieldset>
+    }
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+</div>

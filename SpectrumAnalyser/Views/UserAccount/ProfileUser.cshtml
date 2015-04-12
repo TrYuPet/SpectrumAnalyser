@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title ="Профиль пользователя";
+}
+
+<link rel="stylesheet" type="text/css" href="~/Content/style/colour.css" />
+
+@model IEnumerable<SpectrumAnalyser.Models.BD.tbl_1_User>
+<hgroup class="title">
+@ViewBag.Title
+</hgroup> 
+
+<div id="side_menu"> 
+     @Html.Partial("_UserMenu")
+</div>
+<div id="content">
+    <p class="message-success">@ViewBag.StatusMessage</p>
+   
+<div class="editor-label">  
+</div>
+    <table>
+
+        @foreach (var item in Model)
+        {
+            <tr><th>Имя </th><td>@Html.DisplayFor(modelItem => item.UserFirstName)</td></tr>
+            <tr><th>Фамилия</th><td>@Html.DisplayFor(modelItem => item.UserLastName)</td></tr>
+            <tr><th>Отчество</th><td>@Html.DisplayFor(modelItem => item.UserMiddleName)</td></tr>
+            <tr><th>Логин</th><td>@Html.DisplayFor(modelItem => item.Login)</td></tr>
+            <tr><th>Email</th><td>@Html.DisplayFor(modelItem => item.UserEmail)</td></tr>
+            <tr><th>Cтатус</th><td>@Html.DisplayFor(modelItem => item.tbl_2_Roles.RoleName)</td></tr>
+            <tr><th>Должность</th><td>@Html.DisplayFor(modelItem => item.tbl_5_Organization.OrganizationStatus)</td></tr>
+            <tr><th>Тип организации</th><td>@Html.DisplayFor(modelItem => item.tbl_5_Organization.OrganizationType)</td></tr>
+            <tr><th>Город</th><td>@Html.DisplayFor(modelItem => item.tbl_6_City.UserCity)</td></tr>
+            <tr><th>Страна</th><td>@Html.DisplayFor(modelItem => item.tbl_6_City.Country)</td></tr>                      
+        }
+
+    </table>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+</div>

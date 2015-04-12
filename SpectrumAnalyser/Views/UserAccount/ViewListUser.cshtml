@@ -1,0 +1,87 @@
+﻿@model IEnumerable<SpectrumAnalyser.Models.BD.tbl_1_User>
+<link rel="stylesheet" type="text/css" href="~/Content/style/colour.css" />
+<div id="side_menu">
+    @Html.Partial("_UserMenu")
+</div>
+
+<div id="content">
+    <div>
+        <form method="post" action="/UserAccount/ViewListUser">
+            <table>
+                <tr>
+                    <td><p>Статус : </p></td>
+                    <td> @Html.DropDownList("role", ViewBag.tbl_2_Roles as SelectList)</td>
+                    <td><input type="submit" value="Фильтр" /> </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+    <table>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UserFirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserLastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserMiddleName)
+            </th>
+            @if (HttpContext.Current.User.IsInRole("Administrator"))
+            {
+                <th>
+                    @Html.DisplayNameFor(model => model.Login)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UserEmail)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UserPhoneNumber)
+                </th>
+            }
+            <th>
+                @Html.DisplayNameFor(model => model.RoleId)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserFirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserLastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserMiddleName)
+                </td>
+                @if (HttpContext.Current.User.IsInRole("Administrator"))
+                {
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Login)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.UserEmail)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.UserPhoneNumber)
+                    </td>
+                }
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.tbl_2_Roles.RoleName)
+                </td>
+                @if (HttpContext.Current.User.IsInRole("Administrator"))
+                {
+                    <td>
+                        @Html.ActionLink("Редактировать", "EditListUser", new { id = item.UserId }) |
+                        @Html.ActionLink("Удалить", "DeleteListUser", new { id = item.UserId })
+                    </td>
+                }
+            </tr>
+        }
+
+    </table>
+</div>

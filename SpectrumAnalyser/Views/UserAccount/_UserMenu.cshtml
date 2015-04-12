@@ -1,0 +1,66 @@
+﻿<!-- В зависимости от роли пользователя устанавливаем определенное меню -->
+@if (HttpContext.Current.User.IsInRole("Administrator"))
+{
+    <div id="sidebar">
+        <h4>Меню администратора: вы вошли как <strong>@User.Identity.Name</strong></h4>
+        <ul>
+            <li>
+                <h2>@Html.ActionLink("Мой профиль", "ProfileUser", "UserAccount")</h2>
+                <ul>
+                    <li>@Html.ActionLink("Редактирование личной информации", "EditProfileUser", "UserAccount")</li>
+                    <li>@Html.ActionLink("Редактирование информации о работе", "EditProfileOrganization", "UserAccount")</li>
+                    <li>@Html.ActionLink("Редактирование о месте жительства", "EditProfileCity", "UserAccount")</li>
+                    <li>@Html.ActionLink("Смена пароля", "Manage", "UserAccount")</li>
+                </ul>
+            </li>
+            <li>
+                <h2>Пользователи</h2>
+                <ul>
+                    <li>@Html.ActionLink("Добавление нового пользователя", "CreateNewUser", "UserAccount")</li>
+                    <li>@Html.ActionLink("Просмотр списка пользователей", "ViewListUser", "UserAccount")</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+}
+else if (ViewContext.HttpContext.User.IsInRole("Moderator"))
+{
+    <div id="sidebar">
+        <h4>Меню модератора: вы вошли как <strong>@User.Identity.Name</strong></h4>
+        <ul>
+            <li>
+                <h2>Мой профиль</h2>
+                <ul>
+                    <li>@Html.ActionLink("Редактирование личной информации", "EditProfileUser", "UserAccount")</li>
+                    <li>@Html.ActionLink("Редактирование информации о работе", "EditProfileOrganization", "UserAccount")</li>
+                    <li>@Html.ActionLink("Редактирование о месте жительства", "EditProfileCity", "UserAccount")</li>
+                    <li>@Html.ActionLink("Смена пароля", "Manage", "UserAccount")</li>
+                </ul>
+            </li>
+            <li>
+                <h2>Пользователи</h2>
+                <ul>
+                    <li>@Html.ActionLink("Просмотр списка пользователей", "ViewListUser", "UserAccount")</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+}
+else
+{
+    <div id="sidebar">
+        <h4>Меню пользователя: вы вошли как <strong>@User.Identity.Name</strong></h4>
+        <ul>
+            <li>
+                <h2>Мой профиль</h2>
+                <ul>
+                    <li>@Html.ActionLink("Редактирование личной информации", "EditProfileUser", "UserAccount")</li>
+                    <li>@Html.ActionLink("Редактирование информации о работе", "EditProfileOrganization", "UserAccount")</li>
+                    <li>@Html.ActionLink("Редактирование о месте жительства", "EditProfileCity", "UserAccount")</li>
+                    <li>@Html.ActionLink("Смена пароля", "Manage", "UserAccount")</li>
+                </ul>
+            </li>           
+        </ul>
+    </div>
+}
+

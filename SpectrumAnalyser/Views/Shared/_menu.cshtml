@@ -1,0 +1,121 @@
+﻿@{
+	string url = string.Empty;
+	if(Request.Url != null)
+	{
+		url = Request.Url.ToString();
+	}
+	string selected = string.Empty;
+}
+@* @{selected = url.Contains(Url.Action("Index", "Home")) ? "selected" : string.Empty;} *@
+@{selected = "Домашняя страница".Equals(ViewBag.Title) ? "selected" : string.Empty;}
+<li><a class="@selected" href="@Url.Action("Index", "Home")">Домашняя страница</a></li>
+
+@{selected = "Художники".Equals(ViewBag.Title) ? "selected" : string.Empty;}
+<li><a class="@selected" href="@Url.Action("ListPainter", "AuthorPainter")">Художники</a></li>
+
+@{selected = "Side menu".Equals(ViewBag.Title) ? "selected" : string.Empty;}
+<li><a class="@selected" href="@Url.Action("Items", "SideMenu")">Библиотека</a></li>
+
+@{selected = "AddPicture".Equals(ViewBag.Title) ? "selected" : string.Empty;}
+<li class="@selected"><a class="@selected" href="@Url.Action("Index", "PictureManagement")">Добавить изображение</a></li>
+
+@{selected = "О сайте".Equals(ViewBag.Title) ? "selected" : string.Empty;}
+<li><a class="@selected" href="@Url.Action("About", "Home")">О сайте</a></li>
+
+@{selected = "Контакт".Equals(ViewBag.Title) ? "selected" : string.Empty;}
+<li><a class="@selected" href="@Url.Action("Contact", "Home")">Контакт</a></li>
+
+
+
+
+
+
+    @*<ul>
+        @if (ViewBag.Title == "Домашняя страница")
+        {
+            <li><a class="selected" href="@Url.Action("Index", "Home")">Домашняя страница</a></li>
+            <li><a href="@Url.Action("ListPainter", "AuthorPainter")">Художники</a></li>
+            <li><a href="@Url.Action("Index", "Home")">Библиотека</a></li>
+            <li><a href="@Url.Action("Index", "Home")">Поиск</a></li>
+            <li><a href="@Url.Action("About", "Home")">О сайте</a></li>
+            <li><a href="@Url.Action("Contact", "Home")">Контакт</a></li>
+
+        }
+
+        @if (ViewBag.Title == "Художники")
+        {
+            <li><a href="@Url.Action("Index", "Home")">Домашняя страница</a></li>
+            <li><a class="selected" href="@Url.Action("ListPainter", "AuthorPainter")">Художники</a></li>
+            <li><a href="@Url.Action("Index", "Home")">Библиотека</a></li>
+            <li><a href="@Url.Action("Index", "Home")">Поиск</a></li>
+            <li><a href="@Url.Action("About", "Home")">О сайте</a></li>
+            <li><a href="@Url.Action("Contact", "Home")">Контакт</a></li>
+        }
+
+        @if (ViewBag.Title == "Библиотека")
+        {
+            <li><a href="@Url.Action("Index", "Home")">Домашняя страница</a></li>
+            <li><a href="@Url.Action("ListPainter", "AuthorPainter")">Художники</a></li>
+            <li><a class="selected" href="@Url.Action("Index", "Home")">Библиотека</a></li>
+            <li><a href="@Url.Action("Index", "Home")">Поиск</a></li>
+            <li><a href="@Url.Action("About", "Home")">О сайте</a></li>
+            <li><a href="@Url.Action("Contact", "Home")">Контакт</a></li>
+        }
+
+        @if (ViewBag.Title == "Поиск")
+        {
+            <li><a href="@Url.Action("Index", "Home")">Домашняя страница</a></li>
+            <li><a href="@Url.Action("ListPainter", "AuthorPainter")">Художники</a></li>
+            <li><a href="@Url.Action("Index", "Home")">Библиотека</a></li>
+            <li><a class="selected" href="@Url.Action("Index", "Home")">Поиск</a></li>
+            <li><a href="@Url.Action("About", "Home")">О сайте</a></li>
+            <li><a href="@Url.Action("Contact", "Home")">Контакт</a></li>
+        }
+
+        @if (ViewBag.Title == "О сайте")
+        {
+            <li><a href="@Url.Action("Index", "Home")">Домашняя страница</a></li>
+            <li><a href="@Url.Action("ListPainter", "AuthorPainter")">Художники</a></li>
+            <li><a href="@Url.Action("Index", "Home")">Библиотека</a></li>
+            <li><a href="@Url.Action("Index", "Home")">Поиск</a></li>
+            <li><a class="selected" href="@Url.Action("About", "Home")">О сайте</a></li>
+            <li><a href="@Url.Action("Contact", "Home")">Контакт</a></li>
+        }
+        @if (ViewBag.Title == "Контакт")
+        {
+            <li><a href="@Url.Action("Index", "Home")">Домашняя страница</a></li>
+            <li><a href="@Url.Action("ListPainter", "AuthorPainter")">Художники</a></li>
+            <li><a href="@Url.Action("Index", "Home")">Библиотека</a></li>
+            <li><a href="@Url.Action("Index", "Home")">Поиск</a></li>
+            <li><a href="@Url.Action("About", "Home")">О сайте</a></li>
+            <li><a class="selected" href="@Url.Action("Contact", "Home")">Контакт</a></li>
+
+        }
+        @if (ViewBag.Title == "Профиль пользователя")
+        {
+            <li><a href="@Url.Action("Index", "Home")">Домашняя страница</a></li>
+            <li><a href="@Url.Action("ListPainter", "AuthorPainter")">Художники</a></li>
+            <li><a href="@Url.Action("Index", "Home")">Библиотека</a></li>
+            <li><a href="@Url.Action("Index", "Home")">Поиск</a></li>
+            <li><a href="@Url.Action("About", "Home")">О сайте</a></li>
+            <li><a href="@Url.Action("Contact", "Home")">Контакт</a></li>
+
+        }
+        
+        
+    </ul>
+}
+
+else
+{
+    <ul>
+        <li><a href="@Url.Action("Index", "Home")">Домашняя страница</a></li>
+        <li><a href="@Url.Action("Index", "Home")">Поиск</a></li>
+        <li><a href="@Url.Action("About", "Home")">О сайте</a></li>
+        <li><a  href="@Url.Action("Contact", "Home")">Контакт</a></li> 
+    </ul>*@
+
+
+
+
+    
