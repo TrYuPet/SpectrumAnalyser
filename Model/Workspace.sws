@@ -4,9 +4,8 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{87AD93A5-754A-4870-8253-4C9DF1A5F595}" Loaded="No" Name="ModelAnalyser" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="ModelAnalyser.prj"/>
-		<Model Expanded="Yes" ID="{5165CA2F-F657-4ADE-9CD7-B2F6919638C3}" Name="ConceptualDataAnalyser" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ConceptualDataAnalyser.cdm"/>
 		<Model Expanded="Yes" ID="{87AD93A5-754A-4870-8253-4C9DF1A5F595}" Name="ModelAnalyser" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="ModelAnalyser.prj"/>
+		<Model Expanded="Yes" ID="{5165CA2F-F657-4ADE-9CD7-B2F6919638C3}" Name="ConceptualDataAnalyser" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ConceptualDataAnalyser.cdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
